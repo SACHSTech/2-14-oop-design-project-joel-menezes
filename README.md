@@ -7,6 +7,7 @@ See instructions [here](INSTRUCTIONS.md) for details.
 
 
 ## Summary
+Scope: 30 teams, All Players, and 30 coaches
 The real world system represented in this design is a basketball team. There are different classes Person class, Player class, Coach class, and Team class.
 
 Person: This is an abstract class that represents all players and head coaches for all teams.
